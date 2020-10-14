@@ -1,1 +1,1 @@
-https://lexasby.github.io/rsschool-cv/cv
+https://lexasby.github.io/rsschool-cv/
